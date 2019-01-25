@@ -325,6 +325,7 @@ footer.mbr-footer {
   font-size: 35px;
   bottom: 71px;
   left: 50%;
+  text-decoration: none !important;
   width: 30px;
   margin-left: -15px;
   line-height: 1px;
