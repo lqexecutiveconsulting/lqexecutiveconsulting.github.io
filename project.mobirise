@@ -295,7 +295,7 @@
           "price3": "4000",
           "price4": "5000",
           "period1": "per month",
-          "period2": "",
+          "period2": "&nbsp;per month",
           "period3": "per month",
           "period4": "per month",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Social Media Marketing</b></li><li class=\"list-group-item\"><b>Online Advertisements</b></li><li class=\"list-group-item\"><b>Guaranteed increase of social media presence&nbsp;</b></li></ul>",
