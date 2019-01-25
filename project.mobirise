@@ -5,7 +5,8 @@
     "theme": {
       "name": "purity",
       "title": "PurityM",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.8",
@@ -27,8 +28,8 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
@@ -46,7 +47,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LQ Executive Consulting",
-          "text": "",
+          "text": "At LQ Executive Consulting we have established a dominance in IT &amp; security consulting. Assisting high stakes clients achieve new levels of influence and presence over their industry. We believe in overachieving our client’s goals with our expert consulting and influence.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content1-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -67,12 +68,12 @@
         {
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "color": "#fff",
+            "transparent": false,
+            "color": "#ffffff",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
@@ -80,19 +81,22 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1461.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-626x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html#header1-1",
               "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": "57"
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">LQ Executive Consulting</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
