@@ -48,7 +48,7 @@
           },
           "title": "<b>LQ Executive Consulting</b>",
           "text": "At LQ Executive Consulting we have established a dominance in IT &amp; security consulting. Assisting high stakes clients achieve new levels of influence and presence over their industry. We believe in overachieving our client’s goals with our expert consulting and influence.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#content1-8\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://www.lqexecutiveconsulting.tk/\" data-toolbar=\"-mbrBtnMove\">Learn More</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -67,7 +67,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.lqexecutiveconsulting.tk/\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.lqexecutiveconsulting.tk/\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://www.lqexecutiveconsulting.tk/\">Contact</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -190,10 +190,10 @@
           "caption3": "The experts at LQ Executive Consulting have ensured security for online websites and &nbsp;applcations with zero postive negatives.",
           "title4": "IT Consulting",
           "caption4": "LQ Executive Consulting are proven leaders in IT &amp; Security consulting industry with our expert advice and influence.&nbsp;<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.lqexecutiveconsulting.tk/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -302,10 +302,10 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Website or Application Development</b></li><li class=\"list-group-item\"><b>Bulid an online presence</b></li><li class=\"list-group-item\"><b>Guaranteed online traffic</b></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Website and Application Development</b></li><li class=\"list-group-item\"><b>Build your business</b></li><li class=\"list-group-item\"><b>Have our team build your app and website&nbsp;</b></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>IT &amp; Cybersecurity Consulting</b></li><li class=\"list-group-item\"><b>Increase revenue and security</b></li><li class=\"list-group-item\"><b>Will proived expert IT consulting and ensured security</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a> ",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.lqexecutiveconsulting.tk/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.lqexecutiveconsulting.tk/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a> ",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.lqexecutiveconsulting.tk/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://lqexecutiveconsulting.tk/\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
