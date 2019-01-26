@@ -302,10 +302,10 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Website or Application Development</b></li><li class=\"list-group-item\"><b>Bulid an online presence</b></li><li class=\"list-group-item\"><b>Guaranteed online traffic</b></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Website and Application Development</b></li><li class=\"list-group-item\"><b>Build your business</b></li><li class=\"list-group-item\"><b>Have our team build your app and website&nbsp;</b></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>IT &amp; Cybersecurity Consulting</b></li><li class=\"list-group-item\"><b>Increase revenue and security</b></li><li class=\"list-group-item\"><b>Will proived expert IT consulting and ensured security</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a> ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Demo</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
